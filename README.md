@@ -1,1 +1,1 @@
-As part of Day 0,Holberton School students are required to create a GitHub account, make a repository, and push commits to the repository. This project essentially contains all git related tasks associated with Day 0. 
+As part of Day 0, Holberton School students are required to create a GitHub account, make a repository, and push commits to the repository. This project essentially contains all git related tasks associated with Day 0. 
